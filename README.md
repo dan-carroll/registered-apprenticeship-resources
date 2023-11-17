@@ -8,3 +8,5 @@ Gathering resources for various apprenticeships in the USA Registered Apprentice
   * This book is an open-source textbook from the [VIVA Open!](https://vivaopen.oercommons.org/) [Open Education Resources business collection](https://vivaopen.oercommons.org/curated-collections/22), [right here](https://vivaopen.oercommons.org/courses/business-information-systems-design-an-app-for-that).
 * [Business Math: A Step-by-Step Handbook](https://github.com/dan-carroll/registered-apprenticeship-resources/blob/main/files/text-books/Olivier-BusinessMath.pdf)
   * This book is an open-source textbook from the [VIVA Open!](https://vivaopen.oercommons.org/) [Open Education Resources business collection](https://vivaopen.oercommons.org/curated-collections/22), [right here](https://vivaopen.oercommons.org/courses/business-math-a-step-by-step-handbook).
+* Customer Centric Strategy by Kerri Shields (2021), [online version](https://ecampusontario.pressbooks.pub/customercentricstrategy/)
+  * [Local PDF](https://github.com/dan-carroll/registered-apprenticeship-resources/blob/main/files/text-books/Customer-Centric-Strategy-1660091568.pdf)
